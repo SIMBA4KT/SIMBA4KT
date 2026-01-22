@@ -1,5 +1,5 @@
 
-# 🦁 Hi, I'm James Simba! 
+# 🦁 Hi, I'm James Simba. 
 
 ### 🚀 Junior FrontEnd Developer 
 
