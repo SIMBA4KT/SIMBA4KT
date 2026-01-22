@@ -1,7 +1,7 @@
 
  🦁 Hi, I'm James Simba. 
 
-### 🚀 Junior FrontEnd Developer 
+🚀 Junior FrontEnd Developer 
 
 I am a passionate Junior IT Engineer currently exploring the depths of computer science. I love the logic for building fast solutions and the surgical precision  for understanding the core skills. I'm currently expanding my territory into Modern Frontend as a juniour dev to build full-stack digital experiences.
 ---
@@ -18,3 +18,6 @@ I am a passionate Junior IT Engineer currently exploring the depths of computer 
 
 ## ✨ Key Features
 * **Feature 1:** Responsive designes for mobile and desktop.
+* 
+## 🤝 Collaboration
+: I love working on open-source projects and helping clients scale their web presence.
