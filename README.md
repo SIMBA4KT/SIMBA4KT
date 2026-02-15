@@ -2,7 +2,7 @@
 Hi, I'm James Simba. 🦁 
 
 🚀 Junior FrontEnd Developer 
-<H3>I am a passionate Junior IT Engineer currently exploring the depths of computer science. I love the logic for building fast solutions and the surgical precision  for understanding the core skills. I'm currently expanding my territory into Modern Frontend as a juniour dev to build full-stack digital experiences.</H3>
+<p>I am a passionate Junior IT Engineer currently exploring the depths of computer science. I love the logic for building fast solutions and the surgical precision  for understanding the core skills. I'm currently expanding my territory into Modern Frontend as a juniour dev to build full-stack digital experiences.</p>
 ---
 
 ## 🛠 Tech Stack Used
