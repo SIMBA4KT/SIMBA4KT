@@ -40,4 +40,17 @@ Looking forward to learn C# and MongoDB to maintain databases by providing scala
 ## 🤝 Collaboration
 I love working on open-source projects and helping clients scale their web presence.
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SIMBA4KT&theme=tokyonight&hide_border=true&stroke=000000)](https://git.io/streak-stats)
+### 📊 GitHub Activity & Language Breakdown
+<div align="center">
+  <!-- General Stats Card -->
+  <img src="https://github-stats-extended.vercel.app/api?username=SIMBA4KT&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
+  
+  <!-- Top Languages Card -->
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=SIMBA4KT&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" width="48%" />
+</div>
+<br />
+
+<div align="center">
+  <!-- Activity Streak Card -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SIMBA4KT&theme=tokyonight&hide_border=true" alt="SIMBA4KT's Streak" width="97%" />
+</div>
