@@ -1,5 +1,5 @@
 
-Hi, I'm James Simba. 🦁 
+Hi, I'm James Simba. 
 
 Junior IT Engineer | Frontend Developer | 2nd Year Engineering Student.
  
@@ -35,12 +35,12 @@ Looking forward to learn C# and MongoDB to maintain databases by providing scala
 
 ---
 
-## ✨ Key Features
+##  Key Features
 * **Feature 1:** Responsive designes for mobile and desktop.
-## 🤝 Collaboration
+##  Collaboration
 I love working on open-source projects and helping clients scale their web presence.
 
-### 📊 GitHub Activity & Language Breakdown
+###  GitHub Activity & Language Breakdown
 <div align="center">
   <!-- General Stats Card -->
   <img src="https://github-stats-extended.vercel.app/api?username=SIMBA4KT&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
